@@ -1,0 +1,62 @@
+site_name: ODP Academy, Working with Ocean Data
+site_description: My progress in HUB Ocean's ODP Academy course, Working with Ocean Data on ODP, November to December 2026.
+site_author: Linda Angulo Lopez
+site_url: https://lindangulopez.github.io/odp-academy-2026/
+repo_url: https://github.com/lindangulopez/odp-academy-2026
+repo_name: lindangulopez/odp-academy-2026
+edit_uri: edit/main/docs/
+copyright: Linda Angulo Lopez, November 2026. Written with the help of Claude (Anthropic).
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Learning path: learning-path.md
+  - Modules:
+      - "Welcome and Sign-up": welcome.md
+      - "Module 1: Explore": module-1-explore.md
+      - "Module 2: GIS": module-2-gis.md
+      - "Module 3: Code": module-3-code.md
+      - "Module 4: Plan": module-4-plan.md
+  - Setup: setup.md

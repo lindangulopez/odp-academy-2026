@@ -1,0 +1,6 @@
+site/
+.venv/
+__pycache__/
+# Course downloads and screenshots stay local
+data/
+*.pdf
