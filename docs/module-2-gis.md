@@ -30,8 +30,8 @@ My ArcGIS Online maps: [small seamounts, live from ODP](https://scgismaps.maps.a
 
 ### Lab 2 and wrap-up
 
-- [ ] Lab 2: Map my place. Steps 1 and 2 done; step 3, the upload to ODP, by Thursday 26 November.
-- [ ] Final Remarks
+- [x] Lab 2: Map my place, uploaded to ODP on 22 November.
+- [x] Final Remarks
 
 ## Lab 2: Port St Johns canyons
 
@@ -49,7 +49,7 @@ The lab has three steps: download the protected areas for your country, draw you
 
 **What I found.** The two canyons that come closest to the Wild Coast's shore lie just south of the Pondoland MPA. Only 7% of one is inside it, and none of the other.
 
-**Step 3**, the upload to my dataset *Group 21 - Linda* on ODP, is next.
+**Step 3, done 22 November.** I uploaded `my_place.geojson`, with the Wild Coast layers, to a new ODP dataset, *Wild Coast seafloor and protected areas (Group 21 - Linda)*. It is private to me and my course group.
 
 The files are in [`outputs/lab2/`](https://github.com/lindangulopez/odp-academy-2026/tree/main/outputs/lab2) and [`outputs/wild_coast_protected_areas.geojson`](https://github.com/lindangulopez/odp-academy-2026/blob/main/outputs/wild_coast_protected_areas.geojson). Protected areas: Navigator Data Download, ProtectedSeas®, accessed 22 November 2026 from the [Ocean Data Platform](https://app.hubocean.earth/catalog/dataset/a608f54b-75c7-4df9-a3a8-cedbfa391873).
 
