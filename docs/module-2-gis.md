@@ -17,7 +17,7 @@
 
 ### GIS: ArcGIS
 
-- [ ] From Download to Map (ArcGIS), the alternative path; I skip it if time runs short
+- [ ] From Download to Map (ArcGIS), written for ArcGIS Pro. Without a desktop licence, I wrote it up for the browser: [From Download to Map in ArcGIS Online](module-2-arcgis-online.md).
 
 A quick test of ODP data in ArcGIS Online, 22 November 2026: [test-ODP](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3ca11ce0490483a8960d364291a1f6a).
 
