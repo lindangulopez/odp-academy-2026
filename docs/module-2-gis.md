@@ -1,6 +1,6 @@
 # Module 2: GIS
 
-**In progress, started 22 November 2026.** Opened on Thursday 19 November. **6 of 8 lessons done**; Lab 2 is drawn and waits for its upload to ODP, due Thursday 26 November.
+**Done, 22 November 2026**, certificate issued by HUB Ocean the same day. Opened on Thursday 19 November. Next: a [Zenodo article](learning-path.md#after-the-course-a-zenodo-article) on the Wild Coast exercise, over the holidays.
 
 What I made in this module:
 
