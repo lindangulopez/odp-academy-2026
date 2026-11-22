@@ -181,49 +181,4 @@ Marine spatial planning in SeaSketch.
 </div>
 </div>
 
-<div class="read" markdown="1">
-
-<span class="section-label">Status</span>
-
-## The log
-
-</div>
-
-<div class="timeline" markdown="1">
-<div class="entry" markdown="1">
-<span class="date">22 November 2026, late</span>
-**Module 2 done**, certificate issued by HUB Ocean. Next, after the course: a Zenodo article on the Wild Coast seafloor, over the holidays. See [Learning path](learning-path.md#after-the-course-a-zenodo-article).
-</div>
-<div class="entry" markdown="1">
-<span class="date">22 November 2026, night</span>
-*From Download to Map* done in QGIS and in ArcGIS Online, 6 of 8 lessons. Lab 2 drawn: [Port St Johns canyons](module-2-gis.md#lab-2-port-st-johns-canyons), just outside the Pondoland MPA; upload to ODP next.
-</div>
-<div class="entry" markdown="1">
-<span class="date">22 November 2026, evening</span>
-The Wild Coast exercise as an [ArcGIS story map](https://storymaps.arcgis.com/stories/4a21fdf0c85140f9b3fb6b648d483599).
-</div>
-<div class="entry" markdown="1">
-<span class="date">22 November 2026, afternoon</span>
-Module 2 exercise, [The Wild Coast seafloor](module-2-wild-coast.md). The Wild Coast has no seamount within about 190 km; instead it has one of South Africa's narrowest shelves (median 14 km) and the most submarine canyons per 100 km of coast, the closest within 7 km of shore. Four ODP layers, a notebook, and QGIS. *Data formats and connections* and *Installing QGIS* done: 4 of 8 lessons.
-</div>
-<div class="entry" markdown="1">
-<span class="date">22 November 2026</span>
-Started [Module 2: GIS](module-2-gis.md). The first two lessons, *Welcome to GIS* and *Choose your tool: QGIS or ArcGIS*, are done. I am on *Data formats and connections*, with a global seamount dataset downloaded as CSV, GeoJSON and Parquet for its assignment.
-</div>
-<div class="entry" markdown="1">
-<span class="date">Week of 9 November</span>
-Signed up, finished *Welcome and Sign-up* and [Module 1: Explore](module-1-explore.md).
-</div>
-<div class="entry" markdown="1">
-<span class="date">12 November 2026</span>
-Opening webinar (recorded).
-</div>
-</div>
-
-<div class="read" markdown="1">
-
-Which format would you reach for first with ocean data: a file you download, or a live connection?
-
-</div>
-
 </div>

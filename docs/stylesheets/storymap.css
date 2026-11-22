@@ -11,8 +11,8 @@
 }
 
 /* Hide the page's own H1: the cover carries the title */
-.md-content:has(.story) .md-typeset > h1,
-.md-content:has(.story) .md-content__button { display: none; }
+.md-content:has(.story .cover) .md-typeset > h1,
+.md-content:has(.story .cover) .md-content__button { display: none; }
 
 /* Full-bleed helper */
 .story .bleed {

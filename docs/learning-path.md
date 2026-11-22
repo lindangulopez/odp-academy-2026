@@ -13,6 +13,45 @@ The course runs from 12 November to 18 December 2026, 2 to 4 hours a week. A new
 | **By Fri 18 Dec** | Course closes | Anything left | Full course certificate |
 | **24 Dec to 3 Jan** | After the course | [A Zenodo article](#after-the-course-a-zenodo-article) | A DOI |
 
+## Status
+
+<div class="story" markdown="1">
+
+<div class="timeline" markdown="1">
+<div class="entry" markdown="1">
+<span class="date">22 November 2026, late</span>
+**Module 2 done**, certificate issued by HUB Ocean. Next, after the course: a Zenodo article on the Wild Coast seafloor, over the holidays. See [below](#after-the-course-a-zenodo-article).
+</div>
+<div class="entry" markdown="1">
+<span class="date">22 November 2026, night</span>
+*From Download to Map* done in QGIS and in ArcGIS Online, 6 of 8 lessons. Lab 2 drawn: [Port St Johns canyons](module-2-gis.md#lab-2-port-st-johns-canyons), just outside the Pondoland MPA; upload to ODP next.
+</div>
+<div class="entry" markdown="1">
+<span class="date">22 November 2026, evening</span>
+The Wild Coast exercise as an [ArcGIS story map](https://storymaps.arcgis.com/stories/4a21fdf0c85140f9b3fb6b648d483599).
+</div>
+<div class="entry" markdown="1">
+<span class="date">22 November 2026, afternoon</span>
+Module 2 exercise, [The Wild Coast seafloor](module-2-wild-coast.md). The Wild Coast has no seamount within about 190 km; instead it has one of South Africa's narrowest shelves (median 14 km) and the most submarine canyons per 100 km of coast, the closest within 7 km of shore. Four ODP layers, a notebook, and QGIS. *Data formats and connections* and *Installing QGIS* done: 4 of 8 lessons.
+</div>
+<div class="entry" markdown="1">
+<span class="date">22 November 2026</span>
+Started [Module 2: GIS](module-2-gis.md). The first two lessons, *Welcome to GIS* and *Choose your tool: QGIS or ArcGIS*, are done. I am on *Data formats and connections*, with a global seamount dataset downloaded as CSV, GeoJSON and Parquet for its assignment.
+</div>
+<div class="entry" markdown="1">
+<span class="date">Week of 9 November</span>
+Signed up, finished *Welcome and Sign-up* and [Module 1: Explore](module-1-explore.md).
+</div>
+<div class="entry" markdown="1">
+<span class="date">12 November 2026</span>
+Opening webinar (recorded).
+</div>
+</div>
+
+</div>
+
+Which format would you reach for first with ocean data: a file you download, or a live connection?
+
 ## After the course: a Zenodo article
 
 The Wild Coast exercise answered a real question, so I want it citable: a short article on Zenodo with a DOI, with the notebook and data archived alongside it. There is no rush. I write it during the Christmas and New Year holidays, from **24 December 2026 to 3 January 2027**, about seven hours in all.
