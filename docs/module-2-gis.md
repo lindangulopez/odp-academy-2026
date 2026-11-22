@@ -19,6 +19,8 @@
 
 - [ ] From Download to Map (ArcGIS), the alternative path; I skip it if time runs short
 
+A quick test of ODP data in ArcGIS Online, 22 November 2026: [test-ODP](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3ca11ce0490483a8960d364291a1f6a).
+
 ### Lab 2 and wrap-up
 
 - [ ] Lab 2: Map my place
