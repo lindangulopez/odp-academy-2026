@@ -110,14 +110,15 @@ A narrow shelf brings the Agulhas Current and deep water close to the coast, and
 
 <div class="read" markdown="1">
 
-## Where it led
+## Let's talk
 
-Starting from a global seamount file, I found that the Wild Coast has none nearby, and went looking for what it has instead: canyons. My Lab 2 place is the Port St Johns canyons, just outside the Pondoland MPA. After the course, I plan a short [Zenodo article](learning-path.md#after-the-course-a-zenodo-article) on the Wild Coast seafloor.
+I am at my best where ecology, data and people meet: a partnership to build, a data system to put right, a landscape to model with the people who live in it. Does your team have one of those? Let's meet.
 
 <div class="actions" markdown="1">
-[Read the ArcGIS story map](https://storymaps.arcgis.com/stories/4a21fdf0c85140f9b3fb6b648d483599){ .md-button .md-button--primary }
-[The full exercise](module-2-wild-coast.md){ .md-button }
-[Lab 2 in Module 2](module-2-gis.md#lab-2-port-st-johns-canyons){ .md-button }
+[Connect on LinkedIn](https://www.linkedin.com/in/lindangulopez/){ .md-button .md-button--primary }
+[GitHub](https://github.com/lindangulopez){ .md-button }
+[ORCID](https://orcid.org/0009-0009-5689-7148){ .md-button }
+[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Angulo%20Lopez%2C%20Linda%22){ .md-button }
 </div>
 
 </div>
