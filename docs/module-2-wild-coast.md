@@ -2,6 +2,8 @@
 
 **Module 2 exercise, 22 November 2026.** ODP data, in a notebook and in QGIS, to answer one question about a coast I know.
 
+The short version, as an ArcGIS story map: [The Wild Coast seafloor](https://storymaps.arcgis.com/stories/4a21fdf0c85140f9b3fb6b648d483599).
+
 ## The question
 
 I grew up on the Wild Coast, the stretch of South Africa's Eastern Cape from the Great Kei River mouth to the Mtamvuna River mouth. For the *Data formats and connections* lesson I downloaded ODP's global seamount layer, and found no seamount within 100 km of this coast.

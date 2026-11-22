@@ -29,6 +29,7 @@ There is a certificate for each module, and one for the whole course if all four
 
 ## Status
 
+- 22 November 2026, evening: the Wild Coast exercise as an [ArcGIS story map](https://storymaps.arcgis.com/stories/4a21fdf0c85140f9b3fb6b648d483599).
 - 22 November 2026, afternoon: Module 2 exercise, [The Wild Coast seafloor](module-2-wild-coast.md). The Wild Coast has no seamount within about 190 km; instead it has one of South Africa's narrowest shelves (median 14 km) and the most submarine canyons per 100 km of coast, the closest within 7 km of shore. Four ODP layers, a notebook, and QGIS. *Data formats and connections* and *Installing QGIS* done: 4 of 8 lessons.
 - 22 November 2026: started [Module 2: GIS](module-2-gis.md). The first two lessons, *Welcome to GIS* and *Choose your tool: QGIS or ArcGIS*, are done. I am on *Data formats and connections*, with a global seamount dataset downloaded as CSV, GeoJSON and Parquet for its assignment.
 - Week of 9 November: signed up, finished *Welcome and Sign-up* and [Module 1: Explore](module-1-explore.md).
