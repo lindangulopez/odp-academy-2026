@@ -90,3 +90,8 @@ The same 9,951 seamounts take three different sizes:
 | CSV | 9.2 MB | One text column, `geometry`, with each polygon written as WKT, `POLYGON ((lon lat, …))` |
 | GeoJSON | 10.8 MB | A `FeatureCollection`: each seamount is a feature with its geometry as nested coordinate arrays, and its attributes under `properties` |
 | Parquet | 6.1 MB | Binary and compressed, column by column |
+
+**Where it led.** Starting from this global seamount file, I found that the Wild Coast has none nearby, and went looking for what it has instead: canyons. The view below is my Lab 2 project in QGIS. The two shelf-incising canyons (filled orange) lie inside my place off Port St Johns (yellow), just south of the Pondoland Marine Protected Area (green).
+
+![QGIS view of the Lab 2 project: the Port St Johns canyons inside my place, just south of the Pondoland MPA, with the Hluleka and Dwesa-Cwebe MPAs](img/lab2/qgis_exo2_view.png)
+<small>Data: GSFM canyons, GRID-Arendal (CC BY 4.0); ProtectedSeas Navigator V2 (CC BY 4.0), via the Ocean Data Platform; basemap © OpenStreetMap contributors.</small>
