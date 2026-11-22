@@ -38,6 +38,7 @@ theme:
 markdown_extensions:
   - tables
   - attr_list
+  - md_in_html
   - admonition
   - toc:
       permalink: true
@@ -49,6 +50,9 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra_css:
+  - stylesheets/storymap.css
 
 nav:
   - Home: index.md
