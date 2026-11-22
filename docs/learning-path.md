@@ -7,7 +7,7 @@ The course runs from 12 November to 18 December 2026, 2 to 4 hours a week. A new
 | **Week of 9 Nov** | Sign-up, then Module 1 opens Fri 13 Nov | ODP account; Welcome and Sign-up; Module 1: Explore | Welcome and Module 1 done |
 | **Thu 12 Nov** | Opening webinar | Timeline, groups and how ODP works | Watched |
 | **Sun 22 Nov** | Module 2: GIS (opened Thu 19 Nov) | All eight lessons, [the Wild Coast exercise](module-2-wild-coast.md) and Lab 2 | **Module 2 certificate, 22 Nov** |
-| **26 Nov to 2 Dec** | Module 3: Code opens Thu 26 Nov | Lab 2 on ODP by Thu 26 Nov if not done; the Module 3 notebooks | Module 3 certificate |
+| **26 Nov to 2 Dec** | Module 3: Code opens Thu 26 Nov | The Module 3 notebooks | Module 3 certificate |
 | **3 Dec to 9 Dec** | Module 4: Plan opens Thu 3 Dec | Module 4 in SeaSketch | Module 4 certificate |
 | **Thu 10 Dec** | Closing webinar, 10:00-11:30 Paris | Watch the recording if I can't attend | Watched |
 | **By Fri 18 Dec** | Course closes | Anything left | Full course certificate |
