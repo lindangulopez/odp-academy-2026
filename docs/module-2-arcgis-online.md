@@ -1,6 +1,8 @@
 # From Download to Map in ArcGIS Online
 
-**A tutorial, 22 November 2026.** The Module 2 lesson *From Download to Map (ArcGIS)* is written for ArcGIS Pro, which needs a desktop licence. I don't have one, so this is the same exercise in **ArcGIS Online**, in the browser, with the Map Viewer. It follows the eight steps of the QGIS lesson and uses the Wild Coast layers from [my Module 2 exercise](module-2-wild-coast.md).
+**A tutorial, 22 November 2026, updated the same evening.** The Module 2 lesson *From Download to Map (ArcGIS)* and the ArcGIS route of *Lab 2: Map my place* are written for ArcGIS Pro, which needs a desktop licence. I don't have one, so this is the same work in **ArcGIS Online**, in the browser: Map Viewer for the map, StoryMaps for the story. It follows the eight steps of the QGIS lesson, then Lab 2, and uses the Wild Coast layers from [my Module 2 exercise](module-2-wild-coast.md).
+
+**Result:** [The Wild Coast seafloor](https://arcg.is/1GHyu43), an ArcGIS story map built on a public web map, made with this tutorial.
 
 You need an ArcGIS Online account (an organisation account, or a free ArcGIS Location Platform or Learn account) and an ODP account. Open ODP data needs no key.
 
@@ -27,6 +29,8 @@ The world's canyons or shelves are too big to upload comfortably. Connect to the
 1. **Add** → **Add layer from URL**.
 2. Paste ODP's OGC API Features address: `https://api.hubocean.earth/api/features`
 3. ArcGIS detects an **OGC API - Features** service. Pick the collection by its ODP dataset id, for example `f9ac8c35-68f8-4c4c-b033-86188608507d` for GSFM Canyons, and click **Add to map**.
+
+Tested: my [small seamounts map](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=392eafedff6e4d2ba1a970ae3a322d47) reads *Global Distribution and Morphology of Small Seamounts (Gevorgian et al. 2023)* this way, live from ODP (collection `23db622e-b657-42fb-9de4-23b4603a0b5a`), with no upload and no credits.
 
 !!! warning "Count your features"
     In QGIS, the same connection stopped at 1,000 features out of 9,477 until I raised the page size. In ArcGIS, open the layer's **attribute table** (the *Show table* button) and compare the feature count with the number on the ODP dataset page. If it is short, use a download instead, filtered to your area.
@@ -69,9 +73,38 @@ In the **Layers** panel, open the layer's menu (⋯) → **Remove** for each lar
 
 The lesson shares maps through ODP, and later SeaSketch, rather than printed layouts, so you don't need a print layout.
 
+## 9. Tell the story in ArcGIS StoryMaps
+
+The lesson doesn't ask for this, but a story map is a quick way to share a map with words around it.
+
+1. Go to [storymaps.arcgis.com](https://storymaps.arcgis.com) → **New story** → **Start from scratch**.
+2. Fill in the **title** and **subtitle**, then **Add cover image or video**.
+3. Under *Tell your story…*, click **+** to add blocks: **Paragraph** and **Heading** for text, **Image** for figures such as a chart exported from a notebook, **Map** for your saved web map, and **Sidecar** (Docked) to keep a map on one side while the text scrolls on the other.
+4. Fill in the **credits** at the bottom: each dataset, its owner and its licence.
+5. **Design**: pick a theme. A dark one suits ocean maps.
+6. **Publish** → **Everyone (public)**. ArcGIS offers to share the web maps inside at the same level: accept, or the map blocks stay blank for visitors.
+7. **Share** → copy the short `arcg.is` link.
+
+Check it in a private browser window: if it asks you to sign in, the story or one of its maps is not public yet.
+
+## Lab 2 in ArcGIS Online: map my place
+
+Lab 2 asks for a file called `my_place.geojson` with one polygon and two text fields, exactly **name** and **why**, uploaded to your own ODP dataset (*Group N - your first name*) by Thursday 26 November. The lab's ArcGIS route uses ArcGIS Pro. In ArcGIS Online:
+
+1. **Step 1, the protected areas.** Download *ProtectedSeas Navigator V2, Focused: Area-Based Protections* from ODP as GeoJSON, filtered to your country, and add it as in step 2 above. Or connect to it live as in step 3.
+2. **An empty layer for your place.** **Content** → **New item** → **Feature layer** → **Define your own layer**. Choose **Polygon**, name it `my_place`, then open its **Data** tab → **Fields** → **Add** two **String** fields, `name` and `why`.
+3. **Draw it.** Add `my_place` to your map. **Edit** (right toolbar) → **Create features** → click around your place, double-click to finish, and type the name and one sentence on why it matters to you.
+4. **Save the file.** On the `my_place` item page, **Export Data** → **Export to GeoJSON**. ArcGIS creates a new GeoJSON item; open it and **Download**. Rename the file `my_place.geojson`. GeoJSON is always in WGS 84 latitude and longitude, as the lab asks.
+5. **Step 3, upload to ODP.** **My Data** → your dataset → **Upload files** → `my_place.geojson` → **Upload All**, then the **Ingest file to table** icon, then **Explore table**. Your place should show on the map with *name* and *why*.
+
 ## Check it worked
 
 - The clipped layers show the same counts as QGIS: **1 seamount and 24 canyons** in the Wild Coast box.
-- The map opens in a private browser window if you shared it publicly.
+- The map and the story open in a private browser window, without a sign-in.
+- Your place shows on ODP with its *name* and *why*.
 
-My first quick test: [test-ODP](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3ca11ce0490483a8960d364291a1f6a).
+## My maps
+
+- [The Wild Coast seafloor](https://arcg.is/1GHyu43), the story map
+- [Small seamounts, global (Gevorgian et al. 2023)](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=392eafedff6e4d2ba1a970ae3a322d47), live from ODP through OGC API Features
+- [test-ODP](https://scgismaps.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3ca11ce0490483a8960d364291a1f6a), my first quick test
