@@ -1,6 +1,65 @@
+# Build and environment
 site/
 .venv/
+venv/
 __pycache__/
-# Course downloads and screenshots stay local
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+.vscode/
+.claude/
+
+# Private content: notes, assignment answers, drafts
+private/
+drafts/
+assignments/
+*.private.md
+
+# Secrets: ODP API keys and credentials
+.env
+.env.*
+*.key
+*secret*
+*token*
+credentials*.json
+
+# Datasets and course downloads stay local
 data/
+downloads/
+*.csv
+*.tsv
+*.geojson
+*.json
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.kml
+*.kmz
+*.nc
+*.zarr/
+*.tif
+*.tiff
+*.zip
+*.gz
+
+# QGIS projects can embed local paths and connection details
+*.qgz
+*.qgs
+*.qgs~
+*.qgz~
+
+# Course screenshots and exports (they can show my e-mail)
 *.pdf
+screencapture-*
+Screenshot*
+*.png
+
+# Site images are the exception
+!docs/img/**
