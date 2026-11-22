@@ -57,6 +57,7 @@ nav:
       - "Welcome and Sign-up": welcome.md
       - "Module 1: Explore": module-1-explore.md
       - "Module 2: GIS": module-2-gis.md
+      - "Module 2: Wild Coast exercise": module-2-wild-coast.md
       - "Module 3: Code": module-3-code.md
       - "Module 4: Plan": module-4-plan.md
   - Setup: setup.md

@@ -1,6 +1,6 @@
 # Module 2: GIS
 
-**In progress, started 22 November 2026.** Opened on Thursday 19 November. 2 of 8 lessons done.
+**In progress, started 22 November 2026.** Opened on Thursday 19 November. 4 of 8 lessons done. Exercise: [The Wild Coast seafloor](module-2-wild-coast.md).
 
 ## Lessons
 
@@ -8,11 +8,11 @@
 
 - [x] Welcome to GIS
 - [x] Choose your tool: QGIS or ArcGIS (I use QGIS)
-- [ ] Data formats and connections, with an assignment
+- [x] Data formats and connections, with an assignment (submitted)
 
 ### GIS: QGIS
 
-- [ ] Installing QGIS
+- [x] Installing QGIS
 - [ ] From Download to Map (QGIS)
 
 ### GIS: ArcGIS
@@ -22,8 +22,7 @@
 ### Lab 2 and wrap-up
 
 - [ ] Lab 2: Map my place
-
-The course counts 8 lessons; the last one, in *Lab 2 and wrap-up*, goes on this list when I get there.
+- [ ] Final Remarks
 
 ## Notes: data formats and connections
 

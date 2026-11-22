@@ -63,3 +63,8 @@ Screenshot*
 
 # Site images are the exception
 !docs/img/**
+
+# Exceptions: small derived results for the site (keep QGIS projects local)
+!outputs/**
+outputs/*.qgz
+outputs/*.qgs

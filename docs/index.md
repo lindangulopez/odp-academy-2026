@@ -21,7 +21,7 @@ QGIS and Python are daily tools for me; ocean data is newer.
 | --- | --- | --- | --- |
 | **Welcome and Sign-up** | Tue 3 Nov | ODP account, the three areas of ODP, QGIS or ArcGIS installed | Done, 4 of 4 lessons |
 | **1. Explore** | Fri 13 Nov | Finding and looking at ocean data in the ODP Catalog | Done |
-| **2. GIS** | Thu 19 Nov | ODP data in QGIS or ArcGIS, Lab 2: Map my place | **In progress**, 2 of 8 lessons |
+| **2. GIS** | Thu 19 Nov | ODP data in QGIS or ArcGIS, Lab 2: Map my place | **In progress**, 4 of 8 lessons |
 | **3. Code** | Thu 26 Nov | Notebooks in an ODP Workspace, Python or R | Not open yet |
 | **4. Plan** | Thu 3 Dec | Marine spatial planning in SeaSketch | Not open yet |
 
@@ -29,6 +29,7 @@ There is a certificate for each module, and one for the whole course if all four
 
 ## Status
 
+- 22 November 2026, afternoon: Module 2 exercise, [The Wild Coast seafloor](module-2-wild-coast.md). The Wild Coast has no seamount within about 190 km; instead it has one of South Africa's narrowest shelves (median 14 km) and the most submarine canyons per 100 km of coast, the closest within 7 km of shore. Four ODP layers, a notebook, and QGIS. *Data formats and connections* and *Installing QGIS* done: 4 of 8 lessons.
 - 22 November 2026: started [Module 2: GIS](module-2-gis.md). The first two lessons, *Welcome to GIS* and *Choose your tool: QGIS or ArcGIS*, are done. I am on *Data formats and connections*, with a global seamount dataset downloaded as CSV, GeoJSON and Parquet for its assignment.
 - Week of 9 November: signed up, finished *Welcome and Sign-up* and [Module 1: Explore](module-1-explore.md).
 - 12 November 2026: opening webinar (recorded).

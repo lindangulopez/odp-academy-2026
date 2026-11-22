@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wild_coast_aoi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wild Coast offshore" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 27.0, -35.2 ], [ 31.6, -35.2 ], [ 31.6, -30.4 ], [ 27.0, -30.4 ], [ 27.0, -35.2 ] ] ] } }
+]
+}
